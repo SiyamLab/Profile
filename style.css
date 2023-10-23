@@ -1,0 +1,126 @@
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  .box{
+    width: 500px;
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    text-align: center;
+    position: relative;
+  
+  }
+  .box-left{
+    background-color: rgb(87, 61, 248);
+    height: 100%;
+    width: 50%;
+    color: azure;
+    border-radius: 30px;
+  }
+  .num{
+    border-radius: 500px;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(67, 46, 225);
+    color: rgb(251, 250, 255);
+    shape-margin: 40px;
+    position: relative;
+    right: -50px;
+  }
+
+  .box-right{
+    background-color: rgb(245, 255, 255);
+    height: 100%;
+    width: 50%;
+    color: rgb(47, 54, 72);
+  }
+
+  .sum{
+   position: relative;
+   left: -65px;
+   top: 22px;
+  
+ 
+  }
+  .con{
+    background-color: rgb(48, 59, 89);
+    width: 200px;
+    height: 23px;
+    border-radius: 50px;
+    color: rgb(248, 255, 255);
+    position: relative;
+    right: -50px;
+    nav-down: 50px;
+  
+  }
+
+  .slab{
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    top: 20px;
+    padding-left: 30px;
+    color: rgb(204, 112, 118);
+    
+  }
+  img{
+    margin-right: 50px;
+  }
+ 
+   .slab1{
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    color: rgb(227, 184, 89);
+   }
+   .slab2{
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    color: rgb(94, 177, 159);
+    align-items: center;
+  align-content: center;
+   }
+.slab3{
+  background-color: rgb(255, 255, 255);
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 30px;
+  color: rgb(21, 26, 130);
+  align-items: center;
+}
+.n80{
+  color: rgb(49, 52, 67);
+}
+.n100{
+  color: rgb(178, 176, 181);
+}
+.n92{
+  color: rgb(52, 51, 67);
+}
+.n61{
+  color: rgb(52, 51, 67);
+}
+
+
+
+
+
+
